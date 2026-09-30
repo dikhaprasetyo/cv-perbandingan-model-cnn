@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+       Glass       0.95      0.96      0.96      1224
+      kaleng       0.96      0.96      0.96      1060
+     plastik       0.97      0.97      0.97      1508
+
+    accuracy                           0.96      3792
+   macro avg       0.96      0.96      0.96      3792
+weighted avg       0.96      0.96      0.96      3792
